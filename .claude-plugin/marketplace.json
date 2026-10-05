@@ -1,0 +1,17 @@
+{
+  "name": "coding-pet",
+  "owner": { "name": "ytskmt14" },
+  "metadata": {
+    "description": "coding-pet: a Claude Code mod that raises a pet on your coding"
+  },
+  "plugins": [
+    {
+      "name": "coding-pet",
+      "source": "./plugins/coding-pet",
+      "description": "A pet that hatches from an egg and grows on the achievements you unlock while coding with Claude Code",
+      "version": "1.0.0",
+      "author": { "name": "ytskmt14" },
+      "license": "MIT"
+    }
+  ]
+}

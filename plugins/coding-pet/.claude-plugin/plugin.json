@@ -1,0 +1,11 @@
+{
+  "name": "coding-pet",
+  "version": "1.0.0",
+  "description": "A pet that hatches from an egg and grows on the achievements you unlock while coding with Claude Code",
+  "author": { "name": "ytskmt14" },
+  "homepage": "https://github.com/ytskmt14/coding-pet",
+  "repository": "https://github.com/ytskmt14/coding-pet",
+  "license": "MIT",
+  "keywords": ["pet", "game", "achievements", "mod"],
+  "types": "./types/index.d.ts"
+}
